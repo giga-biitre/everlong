@@ -19,9 +19,7 @@ Out of my head,<b> I sang </b><br></br><b>And I wonder</b><br></br>
 <b>When I sing along with you</b><br></br>If everything could ever feel this real forever<br></br>If anything could ever be this good again<br></br>The only thing I'll ever ask of you<br></br>You've got to promise not to stop when I say when<br></br><b>She sang</b><br></br><b>And I wonder</b><br></br>If everything could ever feel this real forever<br></br>If anything could ever be this good again<br></br>The only thing I'll ever ask of you<br></br>
 You've got to promise not to stop when <b>I say when</b><br></br>
 <img src="https://seeklogo.com/images/F/Foo_Fighters-logo-F3A11F2DD3-seeklogo.com.png"><br></br><audio src="Everlong.mp4"controls></audio>
-  <script src="script.js"></script>
-
-  <script src="https://replit.com/public/js/replit-badge.js" theme="black" defer></script> 
+  
   
   
 </body>
